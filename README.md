@@ -1,4 +1,4 @@
-# purpletruth
+# PurpleTruth
 The objective of PurpleTruth is to provide a  news application that includes an  intuitive yetinsightful measure of political bias for readers as they are consuming their current news sources.Our goal is to create a machine learning algorithm that can produce a bias indicator, which wouldbe red (conservative), blue (liberal) or purple (neutral), based on natural language processing andcrowdsourced feedback for any article online that’s from a verified news source.  Customers wil be able to see this bias indicator on all versions of the PurpleTruth application, and on any newsaggregator or website that integrates with PurpleTruth via APIs.
 
 The components of the MVP include:-
