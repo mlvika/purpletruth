@@ -14,14 +14,12 @@ The components of the MVP include:-
 Steps taken:
 - Ideation and validation of usecase using user interviews and survey. The results can be found in the report above. 
 - Wireframing using balsamiq. Please find the user test versions of the wireframe below:
-
-- Application: https://balsamiq.cloud/sjmgd6i/p7bljgx/r1C0F?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAslAIzwBaOA0lANoC6AvkA%3D%3D
-- Webiste: https://balsamiq.cloud/sjmgd6i/p7bljgx/r8B3C?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D
+Application: https://balsamiq.cloud/sjmgd6i/p7bljgx/r1C0F?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAslAIzwBaOA0lANoC6AvkA%3D%3D
+Webiste: https://balsamiq.cloud/sjmgd6i/p7bljgx/r8B3C?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D
 
 - Prototyping using Adobe XD. 
-- 
-- Application: https://xd.adobe.com/view/2a4d8c1c-ff17-49b0-b214-91d6645858c9-7f1e/?fullscreen&hints=off
-- Website: https://xd.adobe.com/view/ea2e2f09-df6a-4409-bcb9-ea6fa7d1429b-bf7d/?fullscreen&hints=off
+Application: https://xd.adobe.com/view/2a4d8c1c-ff17-49b0-b214-91d6645858c9-7f1e/?fullscreen&hints=off
+Website: https://xd.adobe.com/view/ea2e2f09-df6a-4409-bcb9-ea6fa7d1429b-bf7d/?fullscreen&hints=off
 
 - User tests on the prototype and interative improvements
 - Pitching the idea. 
